@@ -1,9 +1,9 @@
 /*Just a bit of code so you don't get draged onto Numwork's website by clicking it on accident*\
 function WrongPage() {
   let Numworks = "https://my.numworks.com/apps";
-    if window.location.href == Numworks {return}
+    if (window.location.href == Numworks) {return}
     let dowanttogo = confirm("This Bookmarklet only works on Numwork's website, do you want to go there ?")
-    if dowanttogo == false {return}
+    if (dowanttogo == false) {return}
     window.location.href = Numworks
     return true
 }
