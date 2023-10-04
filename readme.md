@@ -1,7 +1,7 @@
 # Numworks memory extender revival
 
 Since the Nwagyu Website got deleted the memory extender Bookmarklet has stopped working.
-This is why I created this Repo, to try and make an accessible and working remake of the memory extender.
+This is why I created this Repo, to try and make an accessible and working remake / modification of the memory extender.
 
 # Attempt 1:
 **Changing the source of the Script in the bookmarklet.**
