@@ -1,5 +1,5 @@
-/*If comments provent you from compiling the code into a Bookmarklet just remove them, they are only usefull when the code is still readable*\
-/*Just a bit of code so you don't get draged onto Numwork's website by clicking it on accident*\
+/*If comments provent you from compiling the code into a Bookmarklet just remove them, they are only usefull when the code is still readable/*
+/*Just a bit of code so you don't get draged onto Numwork's website by clicking it on accident/*
 function WrongPage() {
   let Numworks = "https://my.numworks.com/apps";
     if (window.location.href == Numworks) {return}
@@ -8,7 +8,7 @@ function WrongPage() {
     window.location.href = Numworks
     return true
 }
-/*This Function has the same code as the nwagra.min.js file*\
+/*This Function has the same code as the nwagra.min.js file/*
 function Patch() {
   var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
   if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
