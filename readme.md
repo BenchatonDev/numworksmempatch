@@ -23,4 +23,4 @@ javascript:function%20WrongPage()%7Bif(%22https%3A%2F%2Fmy.numworks.com%2Fapps%2
 Hope you enjoy this simple fix that only took me 10-5mins to make and if you don't trust the bookmarklet here you can "compile" it your self
 
 # Credits and stuff
-I might be the owner of this repo but most if not all of the code here is from the [Nwagyu team / The Orginal](https://web.archive.org/web/20230606155008/https://www.nwagyu.com/) creator and I don't have near enough skill to do what they did so they deserve credit, the work I did is something anyone with a bit of knowledge would be able to do so I don't deserve any credits for this but I'll still thank you for coming by and using my very simple "fix".
+I might be the owner of this repo but most if not all of the code here is from the [Nwagyu team / The Orginal creator](https://web.archive.org/web/20230606155008/https://www.nwagyu.com/), I don't have near enough skill to do what they did so they deserve credit, the work I did is something anyone with a bit of knowledge would be able to do so I don't deserve any credits for this but I'll still thank you for coming by and using my very simple "fix".
