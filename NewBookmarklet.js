@@ -1,3 +1,4 @@
+/*If comments provent you from compiling the code into a Bookmarklet just remove them, they are only usefull when the code is still readable*\
 /*Just a bit of code so you don't get draged onto Numwork's website by clicking it on accident*\
 function WrongPage() {
   let Numworks = "https://my.numworks.com/apps";
