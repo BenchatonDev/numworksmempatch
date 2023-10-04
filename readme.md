@@ -15,3 +15,7 @@ I got a kind message from Chrome in the console that the script was blocked by C
 # Attempt 2:
 
 **Remaking the Bookmarklet from "Scratch".**
+
+
+# Credits and stuff
+I might be the Owner of this repo but most if not all of the code is from the Nwagyu team / The Orginal creator and I don't have near enough skill to do what they did so they deserve credit, the work I did is something anyone with a bit of knowledge would be able to do so I don't deserve any credits for this but I'll still thank you for coming by and using my very simple "fix".
